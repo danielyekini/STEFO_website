@@ -11,7 +11,7 @@ function App() {
             <div class="contact-info">
                 <div class="contact-item">
                   <div class="contact-icon hero-phone"></div>
-                  <p>+44(0)7484127079</p>
+                  <p>+44(0)7354849281</p>
                 </div>
                 <div class="contact-item ">
                   <div class="contact-icon hero-mail"></div>
